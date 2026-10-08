@@ -1,6 +1,6 @@
 {
   "dealership": "Subaru Of Penticton",
-  "generated_at": "2026-09-26T12:00:24",
+  "generated_at": "2026-10-08T14:53:02",
   "vehicle_count": 69,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "4S3BMGA66B3240826",
       "stock": "KU2255",
       "color": "Blue",
+      "trim": "2.5I",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/ae237c26acdc.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2011/subaru/legacy-sedan/penticton/bc/69473076/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2011/subaru/legacy-sedan/penticton/bc/69473076/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 112059,
       "year": 2011,
       "make": "Subaru",
-      "model": "Legacy Sedan 2.5I",
-      "condition": "used"
+      "model": "Legacy",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2015 Subaru Forester 2.5I",
       "vin": "JF2SJCBC8FH561797",
       "stock": "KN26178",
       "color": "Grey",
+      "trim": "2.5I",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/8478ab38387b.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2015/subaru/forester/penticton/bc/71148150/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2015/subaru/forester/penticton/bc/71148150/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 82862,
       "year": 2015,
       "make": "Subaru",
-      "model": "Forester 2.5I",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V LX",
       "vin": "2HKRW2H23HH106318",
       "stock": "KU2306A",
       "color": "Blue",
+      "trim": "LX",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/f706789ff8bf.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2017/honda/cr-v/penticton/bc/71133184/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2017/honda/cr-v/penticton/bc/71133184/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 137997,
       "year": 2017,
       "make": "Honda",
-      "model": "CR-V LX",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Murano SV",
       "vin": "5N1AZ2MH5HN170127",
       "stock": "PN26050",
       "color": "Grey",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/6310f458ece8.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2017/nissan/murano/penticton/bc/69460411/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2017/nissan/murano/penticton/bc/69460411/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +80,17 @@
       "odometer_km": 176500,
       "year": 2017,
       "make": "Nissan",
-      "model": "Murano SV",
-      "condition": "used"
+      "model": "Murano",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota RAV4 XLE",
       "vin": "2T3RFREV1JW722735",
       "stock": "PN26072",
       "color": "White",
+      "trim": "XLE",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/8f201cbbd274.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2018/toyota/rav4/penticton/bc/70312176/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2018/toyota/rav4/penticton/bc/70312176/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +100,17 @@
       "odometer_km": 125565,
       "year": 2018,
       "make": "Toyota",
-      "model": "RAV4 XLE",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2020 Cadillac XT5 LUXURY AWD",
       "vin": "1GYKNBR40LZ173006",
       "stock": "KU2341",
       "color": "White",
+      "trim": "LUXURY",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/43d648452705.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2020/cadillac/xt5/penticton/bc/70701009/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2020/cadillac/xt5/penticton/bc/70701009/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +120,17 @@
       "odometer_km": 58896,
       "year": 2020,
       "make": "Cadillac",
-      "model": "XT5 LUXURY AWD",
-      "condition": "used"
+      "model": "XT5",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2020 Lincoln Corsair RESERVE",
       "vin": "5LMCJ2DH0LUL00438",
       "stock": "KU2390",
       "color": "White",
+      "trim": "RESERVE",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/6a4fdd20a797.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2020/lincoln/corsair/penticton/bc/71343256/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2020/lincoln/corsair/penticton/bc/71343256/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +140,17 @@
       "odometer_km": 106345,
       "year": 2020,
       "make": "Lincoln",
-      "model": "Corsair RESERVE",
-      "condition": "used"
+      "model": "Corsair",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Impreza TOURING",
       "vin": "4S3GTAV61L3730799",
       "stock": "KU2337",
       "color": "White",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/3cf5c513cc6a.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2020/subaru/impreza/penticton/bc/70510540/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2020/subaru/impreza/penticton/bc/70510540/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +160,17 @@
       "odometer_km": 83517,
       "year": 2020,
       "make": "Subaru",
-      "model": "Impreza TOURING",
-      "condition": "used"
+      "model": "Impreza",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Outback PREMIER XT",
       "vin": "4S4BTHPDXL3113606",
       "stock": "PN26109",
       "color": "White",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/e44503999982.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2020/subaru/outback/penticton/bc/71160786/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2020/subaru/outback/penticton/bc/71160786/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +180,17 @@
       "odometer_km": 77903,
       "year": 2020,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-3 GT",
       "vin": "JM1DKFD70M1514372",
       "stock": "PN26056",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/2a528198bc7a.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2021/mazda/cx-3/penticton/bc/69806980/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2021/mazda/cx-3/penticton/bc/69806980/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,13 +200,16 @@
       "odometer_km": 109900,
       "year": 2021,
       "make": "Mazda",
-      "model": "CX-3 GT",
-      "condition": "used"
+      "model": "CX-3",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Impreza SPORT - TECH 4DR",
       "vin": "4S3GKAU60M3605847",
       "stock": "KN26182",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/88a478b7ef18.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2021/subaru/impreza/penticton/bc/69651412/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2021/subaru/impreza/penticton/bc/69651412/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -188,14 +219,17 @@
       "odometer_km": 69653,
       "year": 2021,
       "make": "Subaru",
-      "model": "Impreza SPORT - TECH 4DR",
-      "condition": "used"
+      "model": "Impreza",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Outback WILDERNESS",
       "vin": "4S4BTHTD5N3208194",
       "stock": "KU2299",
       "color": "White",
+      "trim": "WILDERNESS",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/7d5d4524b3c7.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2022/subaru/outback/penticton/bc/70356602/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2022/subaru/outback/penticton/bc/70356602/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -205,13 +239,16 @@
       "odometer_km": 64903,
       "year": 2022,
       "make": "Subaru",
-      "model": "Outback WILDERNESS",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Outback WILDERNESS",
       "vin": "4S4BTHTD5N3124148",
       "stock": "PN26128",
+      "trim": "WILDERNESS",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/4872e2312401.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2022/subaru/outback/penticton/bc/71193997/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2022/subaru/outback/penticton/bc/71193997/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -221,14 +258,17 @@
       "odometer_km": 96510,
       "year": 2022,
       "make": "Subaru",
-      "model": "Outback WILDERNESS",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Outback ONYX",
       "vin": "4S4BTDKC5P3107726",
       "stock": "PN26077",
       "color": "Grey",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/5493610862b8.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2023/subaru/outback/penticton/bc/70107691/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2023/subaru/outback/penticton/bc/70107691/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -238,14 +278,17 @@
       "odometer_km": 69825,
       "year": 2023,
       "make": "Subaru",
-      "model": "Outback ONYX",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Outback LIMITED",
       "vin": "4S4BTDNC8P3131563",
       "stock": "KN26309",
       "color": "Grey",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/86c461c93264.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2023/subaru/outback/penticton/bc/70611897/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2023/subaru/outback/penticton/bc/70611897/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -255,14 +298,17 @@
       "odometer_km": 75246,
       "year": 2023,
       "make": "Subaru",
-      "model": "Outback LIMITED",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Solterra W/LUXURY PACKAGE",
       "vin": "JTMABABA3PA015638",
       "stock": "KU2331",
       "color": "Grey",
+      "trim": "W/LUXURY PACKAGE",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/6029591df82a.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2023/subaru/solterra/penticton/bc/70739241/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2023/subaru/solterra/penticton/bc/70739241/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -272,14 +318,17 @@
       "odometer_km": 65132,
       "year": 2023,
       "make": "Subaru",
-      "model": "Solterra W/LUXURY PACKAGE",
-      "condition": "used"
+      "model": "Solterra",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru WRX BASE",
       "vin": "JF1VBAA65P9822135",
       "stock": "KU2309",
       "color": "Grey",
+      "trim": "BASE",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/d61c07ac770a.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2023/subaru/wrx/penticton/bc/70298624/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2023/subaru/wrx/penticton/bc/70298624/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -289,14 +338,17 @@
       "odometer_km": 31932,
       "year": 2023,
       "make": "Subaru",
-      "model": "WRX BASE",
-      "condition": "used"
+      "model": "WRX",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC9RH270010",
       "stock": "KU2291",
       "color": "Silver",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/e609ffa94c29.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2024/subaru/crosstrek/penticton/bc/70000690/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2024/subaru/crosstrek/penticton/bc/70000690/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -306,14 +358,17 @@
       "odometer_km": 12231,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC4RH269234",
       "stock": "KU2325",
       "color": "Blue",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/32ddb2c43a16.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2024/subaru/crosstrek/penticton/bc/70133630/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2024/subaru/crosstrek/penticton/bc/70133630/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -323,14 +378,17 @@
       "odometer_km": 39100,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek WILDERNESS",
       "vin": "4S4GUHU67R3836329",
       "stock": "KU2308",
       "color": "Blue",
+      "trim": "WILDERNESS",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/c3492423f4d6.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2024/subaru/crosstrek/penticton/bc/70383220/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2024/subaru/crosstrek/penticton/bc/70383220/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -340,14 +398,17 @@
       "odometer_km": 23292,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek WILDERNESS",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek LIMITED",
       "vin": "JF2GUHNC6RH262805",
       "stock": "PN26098",
       "color": "Blue",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/bd029a4fc36f.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2024/subaru/crosstrek/penticton/bc/70565794/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2024/subaru/crosstrek/penticton/bc/70565794/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -357,14 +418,17 @@
       "odometer_km": 47183,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek LIMITED",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC9RH242031",
       "stock": "PN26143",
       "color": "White",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/e3b05acbebe8.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2024/subaru/crosstrek/penticton/bc/71238423/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2024/subaru/crosstrek/penticton/bc/71238423/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -374,14 +438,17 @@
       "odometer_km": 40270,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Forester TOURING",
       "vin": "JF2SLDDC3SH418201",
       "stock": "PU1108",
       "color": "Grey",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/e7c6c63f41a0.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2025/subaru/forester/penticton/bc/71121761/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2025/subaru/forester/penticton/bc/71121761/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -391,14 +458,17 @@
       "odometer_km": 18203,
       "year": 2025,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD4TY455024",
       "stock": "PU1110",
       "color": "Grey",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/45ba6795fa59.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71381769/?sale_class=used",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71381769/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -408,14 +478,17 @@
       "odometer_km": 8450,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid HYBRID LIMITED",
       "vin": "JF2GUSND2T8283180",
       "stock": "PN26180",
       "color": "Yellow",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/5051418135d9.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek-hybrid/penticton/bc/71332269/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek-hybrid/penticton/bc/71332269/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -425,22 +498,27 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid HYBRID LIMITED",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid E-BOXER HYBRID LIMITED",
       "vin": "JF2GUSND5T8266938",
       "stock": "PN26188",
       "color": "Blue",
+      "trim": "E-BOXER HYBRID LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/e633e5aa4329.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek-hybrid/penticton/bc/71343261/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek-hybrid/penticton/bc/71343261/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:30:18",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid E-BOXER HYBRID LIMITED",
-      "condition": "new"
+      "model": "Crosstrek Hybrid",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid HYBRID",
@@ -455,27 +533,33 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek Hybrid HYBRID",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid HYBRID LIMITED",
       "vin": "JF2GUSND3T8289375",
       "stock": "KN26495",
       "color": "White",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/aa405cd0d246.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek-hybrid/penticton/bc/71372039/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek-hybrid/penticton/bc/71372039/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:30:38",
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid HYBRID LIMITED",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED",
       "vin": "JF2GUHNCXT8264631",
       "stock": "PN26126",
       "color": "Brown",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/ef295b6f356d.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/70640255/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/70640255/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -485,14 +569,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek LIMITED",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING",
       "vin": "JF2GUHDCXT8281012",
       "stock": "PN26150",
       "color": "White",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/b14ff3a9851f.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71076448/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71076448/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -502,14 +589,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek TOURING",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek LIMITED",
       "vin": "JF2GUHNC8T8283615",
       "stock": "PN26158",
       "color": "Silver",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/1cf40b4b71c2.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71148148/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71148148/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -519,14 +609,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek LIMITED",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC1T8289593",
       "stock": "PN26172",
       "color": "Grey",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/33b137b52f8f.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71231299/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71231299/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -536,14 +629,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek TOURING",
       "vin": "JF2GUHDC2T8289461",
       "stock": "PN26171",
       "color": "Grey",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/df9fbeffab04.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71231301/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71231301/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -553,14 +649,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek TOURING",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE",
       "vin": "JF2GUHBC2T8279838",
       "stock": "KN26508",
       "color": "White",
+      "trim": "CONVENIENCE",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/be34a233c997.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71320079/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71320079/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -570,14 +669,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek CONVENIENCE",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek CONVENIENCE",
       "vin": "JF2GUHBC8T8267807",
       "stock": "PN26187",
       "color": "White",
+      "trim": "CONVENIENCE",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/5e82bd99c461.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71343255/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71343255/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -587,14 +689,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek CONVENIENCE",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ONYX",
       "vin": "JF2GUHFC5T8291928",
       "stock": "PN26189",
       "color": "Silver",
+      "trim": "ONYX",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/9fa268d30834.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71343257/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/crosstrek/penticton/bc/71343257/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -604,14 +709,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek ONYX",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC8TH458350",
       "stock": "PN26046",
       "color": "Blue",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/44914b2063d0.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/69180771/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/69180771/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -621,14 +729,17 @@
       "odometer_km": 83,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC7TH448585",
       "stock": "PN26027",
       "color": "Grey",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/f77ec27cfb9c.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70624314/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70624314/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -638,14 +749,17 @@
       "odometer_km": 5815,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC4TH467863",
       "stock": "PN26129",
       "color": "Grey",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/b0794f410f31.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70711764/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70711764/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -655,14 +769,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHCXTH468086",
       "stock": "PN26130",
       "color": "Green",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/6f53c2d4a531.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70711765/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70711765/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -672,14 +789,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC9TH469463",
       "stock": "PN26141",
       "color": "White",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/1e985c2fc0bb.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70862376/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70862376/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -689,14 +809,17 @@
       "odometer_km": 19,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC3TH469134",
       "stock": "PN26142",
       "color": "Blue",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/07cfe5484d38.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70862377/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70862377/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -706,14 +829,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHC0TH469165",
       "stock": "PN26147",
       "color": "Blue",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/8c96e8f3648f.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70920041/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70920041/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -723,14 +849,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC4TH469001",
       "stock": "PN26146",
       "color": "Green",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/2a6cc5a46ec8.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70920042/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/70920042/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -740,14 +869,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC1TH469562",
       "stock": "PN26153",
       "color": "Grey",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/0aacf510534b.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71148147/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71148147/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -757,14 +889,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC2TH467732",
       "stock": "PN26160",
       "color": "White",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/7dbf53e66580.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71160784/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71160784/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -774,14 +909,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHC0TH475290",
       "stock": "PN26168",
       "color": "White",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/19355a97c996.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71219395/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71219395/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -791,14 +929,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester TOURING",
       "vin": "JF2SLDDC7TH476572",
       "stock": "PN26177",
       "color": "Grey",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/4c5e9c1fa811.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71271099/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71271099/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -808,14 +949,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester TOURING",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVN",
       "vin": "JF2SLDAC1TH476751",
       "stock": "PN26173",
       "color": "Grey",
+      "trim": "CONVN",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/857dcfbae623.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71271100/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71271100/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -825,14 +969,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester CONVN",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester CONVN",
       "vin": "JF2SLDAC4TH467199",
       "stock": "PN26183",
       "color": "Green",
+      "trim": "CONVN",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/ccfbaf1ad389.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71343252/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71343252/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -842,14 +989,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester CONVN",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester PREMIER",
       "vin": "JF2SLDTC0TH476737",
       "stock": "PN26185",
       "color": "Green",
+      "trim": "PREMIER",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/f0436d8be39a.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71343253/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71343253/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -859,14 +1009,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester PREMIER",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester SPORT",
       "vin": "JF2SLDHC4TH467421",
       "stock": "PN26186",
       "color": "Green",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/cb1b9447c36e.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71343258/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71343258/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -876,14 +1029,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester SPORT",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester LIMITED",
       "vin": "JF2SLDRC4TH467224",
       "stock": "PN26184",
       "color": "White",
+      "trim": "LIMITED",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/9e3cf7ad3dae.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71343259/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/forester/penticton/bc/71343259/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -893,14 +1049,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester LIMITED",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD1TY543433",
       "stock": "PN26101",
       "color": "White",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/17032b33704c.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/70324103/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/70324103/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -910,14 +1069,17 @@
       "odometer_km": 20,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT",
       "vin": "JF2BURHD6TY557897",
       "stock": "PN26134",
       "color": "Grey",
+      "trim": "LIMITED XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/580e4662c0a4.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/70774419/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/70774419/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -927,14 +1089,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback LIMITED XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT",
       "vin": "JF2BURHDXTY558938",
       "stock": "PN26133",
       "color": "Grey",
+      "trim": "LIMITED XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/54bc6962c839.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/70774424/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/70774424/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -944,14 +1109,17 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback LIMITED XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD3TY580998",
       "stock": "PN26161",
       "color": "White",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/1c65d45bc4f6.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71160782/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71160782/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -961,14 +1129,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT",
       "vin": "JF2BURHDXTY564612",
       "stock": "PN26159",
       "color": "Green",
+      "trim": "LIMITED XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/29cffcea280c.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71160785/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71160785/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -978,28 +1149,34 @@
       "odometer_km": 33,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback LIMITED XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD2TY555641",
       "stock": "PN26167",
       "color": "White",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/ee0472bff06d.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71219396/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71219396/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:35:35",
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback TOURING",
       "vin": "JF2BUPCD9TY594762",
       "stock": "PN26174",
       "color": "White",
+      "trim": "TOURING",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/712abadf4cc6.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71271098/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71271098/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1009,14 +1186,17 @@
       "odometer_km": 7,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback TOURING",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback PREMIER XT",
       "vin": "JF2BURJD2TY595380",
       "stock": "PN26178",
       "color": "Grey",
+      "trim": "PREMIER XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/1cb597275b7c.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71332267/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71332267/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1026,14 +1206,17 @@
       "odometer_km": 5,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback PREMIER XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT",
       "vin": "JF2BURHD4TY594995",
       "stock": "PN26179",
       "color": "Grey",
+      "trim": "LIMITED XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/7352d5667dac.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71332268/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71332268/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1043,28 +1226,34 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback LIMITED XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT",
       "vin": "JF2BURHD2TY576124",
       "stock": "PN26181",
       "color": "Grey",
+      "trim": "LIMITED XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/21767e5e3f11.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71343254/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71343254/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T05:36:11",
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback LIMITED XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback LIMITED XT",
       "vin": "JF2BURHD5TY595699",
       "stock": "PN26182",
       "color": "Grey",
+      "trim": "LIMITED XT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/49298114cc6b.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71343260/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/outback/penticton/bc/71343260/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1074,8 +1263,10 @@
       "odometer_km": 19,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback LIMITED XT",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Trailseeker PREMIER",
@@ -1092,13 +1283,16 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Trailseeker PREMIER",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX KAMINARI EDITION",
       "vin": "JF1VBAZ62T9802729",
       "stock": "PN26092",
       "color": "Yellow",
+      "trim": "KAMINARI EDITION",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/63f47fe306f1.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/wrx/penticton/bc/69952867/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/wrx/penticton/bc/69952867/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1108,14 +1302,17 @@
       "odometer_km": 24,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX KAMINARI EDITION",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX GT",
       "vin": "JF1VBAV67T8805279",
       "stock": "PN26111",
       "color": "White",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/45ce44939a5d.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/wrx/penticton/bc/70383217/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/wrx/penticton/bc/70383217/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1125,14 +1322,17 @@
       "odometer_km": 17,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX GT",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX SPORT",
       "vin": "JF1VBAH64T9808274",
       "stock": "PN26152",
       "color": "Grey",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/8e5e93247341.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/wrx/penticton/bc/71148142/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/wrx/penticton/bc/71148142/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1142,14 +1342,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX SPORT",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX SPORT",
       "vin": "JF1VBAH6XT9812622",
       "stock": "PN26156",
       "color": "White",
+      "trim": "SPORT",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/c2fad9a183e4.html",
       "source_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/wrx/penticton/bc/71148143/?sale_class=new",
       "dealer_url": "https://www.subaruofpenticton.com/vehicles/2026/subaru/wrx/penticton/bc/71148143/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1159,8 +1362,10 @@
       "odometer_km": 18,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX SPORT",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     }
   ]
 }
