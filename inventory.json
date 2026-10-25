@@ -1,10 +1,17 @@
 {
   "dealership": "Subaru Of Penticton",
-  "generated_at": "2026-10-25T14:06:12",
-  "vehicle_count": 78,
+  "generated_at": "2026-10-25T14:18:08",
+  "vehicle_count": 82,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New Inventory",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/5734505924e1.html",
+      "condition": "new",
+      "price": 36427.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "2010 Jeep",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/5ecc0643c7b3.html",
@@ -323,6 +330,16 @@
     },
     {
       "name": "2026 Subaru",
+      "vin": "JF2GUSND8T8296953",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/8ffde7dd20ee.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 42927.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
       "vin": "JF2GUHDCXT8281012",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/f052edfa1a44.html",
       "year": 2026,
@@ -363,6 +380,16 @@
     },
     {
       "name": "2026 Subaru",
+      "vin": "JF2GUHFC4T8297655",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/21943cb26b5f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 37927.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
       "vin": "JF2SLSTD8TH471895",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/c104f07319e4.html",
       "year": 2026,
@@ -385,6 +412,16 @@
       "name": "2026 Subaru",
       "vin": "JF2SLSTD0TH478954",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/bc4a628fd3d1.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2SLSTD0TH472586",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/e77dd6fb4454.html",
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
@@ -459,16 +496,6 @@
       "make": "Subaru",
       "condition": "new",
       "price": 43527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JF2SLDRC1TH469562",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/5734505924e1.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 45527.0,
       "price_currency": "CAD"
     },
     {
@@ -563,8 +590,8 @@
     },
     {
       "name": "2026 Subaru",
-      "vin": "JF2SLDRC1TH479086",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/cbeffd43f509.html",
+      "vin": "JF2SLDRCXTH479121",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/a271a21e7f4f.html",
       "year": 2026,
       "make": "Subaru",
       "condition": "new",
@@ -679,6 +706,16 @@
       "make": "Subaru",
       "condition": "new",
       "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "vin": "JF2BURJD3TY605107",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/ff56e6e2cf7f.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "new",
+      "price": 53277.0,
       "price_currency": "CAD"
     },
     {
