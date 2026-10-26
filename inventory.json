@@ -1,17 +1,10 @@
 {
   "dealership": "Subaru Of Penticton",
-  "generated_at": "2026-10-25T23:45:27",
-  "vehicle_count": 82,
+  "generated_at": "2026-10-25T23:52:29",
+  "vehicle_count": 80,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "New Inventory",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/5734505924e1.html",
-      "condition": "new",
-      "price": 36427.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2010 Jeep",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/5ecc0643c7b3.html",
@@ -716,16 +709,6 @@
       "make": "Subaru",
       "condition": "new",
       "price": 53277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
-      "vin": "JTMBGAHC9TY008077",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/new/da1ff006e304.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "new",
-      "price": 63827.0,
       "price_currency": "CAD"
     },
     {
