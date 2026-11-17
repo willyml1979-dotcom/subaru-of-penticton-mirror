@@ -1,7 +1,7 @@
 {
   "dealership": "Subaru Of Penticton",
-  "generated_at": "2026-10-26T08:26:56",
-  "vehicle_count": 80,
+  "generated_at": "2026-11-17T09:55:01",
+  "vehicle_count": 82,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -29,7 +29,7 @@
       "year": 2014,
       "make": "Hyundai",
       "condition": "used",
-      "price": 12693.0,
+      "price": 11490.0,
       "price_currency": "CAD"
     },
     {
@@ -47,16 +47,16 @@
       "year": 2016,
       "make": "Hyundai",
       "condition": "used",
-      "price": 14490.0,
+      "price": 14190.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Honda",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/3fcf439ee985.html",
-      "year": 2017,
-      "make": "Honda",
+      "name": "2016 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/6f6b59b7bc6b.html",
+      "year": 2016,
+      "make": "Subaru",
       "condition": "used",
-      "price": 20693.0,
+      "price": 13490.0,
       "price_currency": "CAD"
     },
     {
@@ -78,21 +78,21 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/93a6c00ebf60.html",
-      "year": 2018,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 18490.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Toyota",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/6198c26ea036.html",
       "year": 2018,
       "make": "Toyota",
       "condition": "used",
       "price": 26693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Toyota",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/26e2b700151e.html",
+      "year": 2018,
+      "make": "Toyota",
+      "condition": "used",
+      "price": 19490.0,
       "price_currency": "CAD"
     },
     {
@@ -159,6 +159,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/caeeb82c651d.html",
+      "year": 2022,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 36693.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Subaru",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/01f8eb8a0b9d.html",
       "year": 2023,
@@ -183,15 +192,6 @@
       "make": "Subaru",
       "condition": "used",
       "price": 36693.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/ec2e9cfbb381.html",
-      "year": 2023,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 32693.0,
       "price_currency": "CAD"
     },
     {
@@ -222,12 +222,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/aabb4e1ae472.html",
-      "year": 2025,
+      "name": "2024 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/75010fef06cb.html",
+      "year": 2024,
       "make": "Subaru",
       "condition": "used",
-      "price": 38190.0,
+      "price": 35490.0,
       "price_currency": "CAD"
     },
     {
@@ -237,6 +237,15 @@
       "make": "Subaru",
       "condition": "used",
       "price": 40693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/d40f09321068.html",
+      "year": 2025,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 38190.0,
       "price_currency": "CAD"
     },
     {
@@ -268,15 +277,6 @@
     },
     {
       "name": "2026 Subaru",
-      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/ba76ef405a20.html",
-      "year": 2026,
-      "make": "Subaru",
-      "condition": "used",
-      "price": 44193.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru",
       "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/0c3c03b51809.html",
       "year": 2026,
       "make": "Subaru",
@@ -300,6 +300,24 @@
       "make": "Subaru",
       "condition": "used",
       "price": 41693.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/79bf9d76c70a.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 46685.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru",
+      "url": "https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/04a486f780d4.html",
+      "year": 2026,
+      "make": "Subaru",
+      "condition": "used",
+      "price": 44685.0,
       "price_currency": "CAD"
     },
     {
