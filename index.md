@@ -1,6 +1,6 @@
 # Subaru of Penticton
 
- dealership in Penticton. AI-readable inventory mirror, about 96 vehicles.
+ dealership in Penticton. AI-readable inventory mirror, about 97 vehicles.
 
 - Official website: https://www.subaruofpenticton.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/subaru-of-penticton-mirror/used/
